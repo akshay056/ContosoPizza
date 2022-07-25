@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ContosoPizza20220725110509'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53FE19A7EAF345C39495B79A946E77F6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDAD69365432470F8A5D0E0C1B753DA9 }}
           package: .
